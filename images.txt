@@ -4,3 +4,4 @@ mzz2017/v2raya
 tailscale/tailscale
 jeessy/ddns-go
 linuxserver/jellyfin
+superng6/qbittorrentee
