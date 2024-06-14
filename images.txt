@@ -5,3 +5,4 @@ tailscale/tailscale
 jeessy/ddns-go
 linuxserver/jellyfin
 superng6/qbittorrentee
+simpletracker/qbittorrent-clientblocker
